@@ -23,11 +23,9 @@ Halaman formulir digunakan untuk fungsi menambah data baru dan mengubah data yan
 
 ---
 
-## ☁️ Backend & Penyimpanan
+## Database dan Storage
 
-Aplikasi ini menggunakan sistem penyimpanan Hybrid. Data disimpan di Cloud (Firebase) dan disinkronkan dengan LocalStorage browser (termasuk penyimpanan referensi gambar jika ada).
+Aplikasi ini menggunakan sistem penyimpanan Hybrid. Data disimpan di Cloud (Firebase) dan disinkronkan dengan LocalStorage.
 
 ![Firebase Overview](https://github.com/user-attachments/assets/c5d8482f-c4c9-4c2f-9226-3d7127b56f4e)
-*Tampilan konsol Firebase Realtime Database dan ilustrasi penyimpanan lokal.*
 
----
